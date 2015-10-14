@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.exe
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\OddOrEvenInteger\bin\Debug\OddOrEvenInteger.pdb
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\OddOrEvenInteger\obj\x86\Debug\OddOrEvenInteger.exe
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\OddOrEvenInteger\obj\x86\Debug\OddOrEvenInteger.pdb

@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 8. Prime Number Check\obj\x86\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 8. Prime Number Check\obj\x86\Debug\Problem_8.Prime_Number_Check.pdb

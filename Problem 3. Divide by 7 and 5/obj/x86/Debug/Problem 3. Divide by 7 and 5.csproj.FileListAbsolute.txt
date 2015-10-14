@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 3. Divide by 7 and 5\bin\Debug\Problem_3.Divide_by_7_and_5.pdb
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 3. Divide by 7 and 5\obj\x86\Debug\Problem_3.Divide_by_7_and_5.exe
+C:\Users\Margarit\Desktop\Software University\5. Оператори и изрази\Homework5\Problem 3. Divide by 7 and 5\obj\x86\Debug\Problem_3.Divide_by_7_and_5.pdb
